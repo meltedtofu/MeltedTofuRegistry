@@ -1,0 +1,5 @@
+name = "MeltedTofu"
+uuid = "80b0c247-2ff7-4f2f-8cd4-2c08789026ae"
+repo = "https://github.com/meltedtofu/MeltedTofuRegistry.git"
+
+[packages]
