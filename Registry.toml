@@ -4,4 +4,5 @@ repo = "https://github.com/meltedtofu/MeltedTofuRegistry.git"
 
 [packages]
 6fb4242f-1e24-4c34-aea5-7820002b36ca = { name = "GameBoy", path = "G/GameBoy" }
+7c6a3570-1e12-4875-ab44-fab7e4578710 = { name = "F1", path = "F/F1" }
 dabcad34-8443-4732-92c3-77f5d9de3355 = { name = "TravellingSalesman", path = "T/TravellingSalesman" }
