@@ -1,3 +1,3 @@
 name = "GameBoy"
 uuid = "6fb4242f-1e24-4c34-aea5-7820002b36ca"
-repo = "git@github.com:meltedtofu/GameBoy.jl"
+repo = "https://github.com/meltedtofu/GameBoy.jl.git"
