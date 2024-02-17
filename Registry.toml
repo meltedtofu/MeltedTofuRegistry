@@ -6,5 +6,6 @@ repo = "https://github.com/meltedtofu/MeltedTofuRegistry.git"
 31212b72-6cb2-4d94-82c6-71d6f93632ce = { name = "PokemonObserver", path = "P/PokemonObserver" }
 6fb4242f-1e24-4c34-aea5-7820002b36ca = { name = "GameBoy", path = "G/GameBoy" }
 7c6a3570-1e12-4875-ab44-fab7e4578710 = { name = "F1", path = "F/F1" }
+8c86c0b2-811b-43d0-91f8-226b672103a6 = { name = "Faktory", path = "F/Faktory" }
 a1f5f57e-fd11-4ac4-93c7-988ef3f0997f = { name = "PokemonCartographer", path = "P/PokemonCartographer" }
 dabcad34-8443-4732-92c3-77f5d9de3355 = { name = "TravellingSalesman", path = "T/TravellingSalesman" }
